@@ -7,5 +7,6 @@
     <string name="title_activity_bluetooth_control">BluetoothControlActivity</string>
     <string name="title_activity_choose_device">ChooseDeviceActivity</string>
     <string name="title_activity_image_manager">ImageManagerActivity</string>
+    <string name="title_activity_image_operations">ImageOperationsActivity</string>
 
 </resources>

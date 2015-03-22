@@ -7,11 +7,13 @@
     <TextView 
         android:id="@+id/nxtprinter_name"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="Unknown Name" />
     
     <TextView 
         android:id="@+id/nxtprinter_mac"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="Unknown Mac Address" />
 
 </LinearLayout>
