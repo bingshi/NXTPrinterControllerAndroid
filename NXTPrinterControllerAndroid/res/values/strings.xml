@@ -4,5 +4,8 @@
     <string name="app_name">NXTPrinterControllerAndroid</string>
     <string name="title_activity_function">NXTPrinterController</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_bluetooth_control">BluetoothControlActivity</string>
+    <string name="title_activity_choose_device">ChooseDeviceActivity</string>
+    <string name="title_activity_image_manager">ImageManagerActivity</string>
 
 </resources>
