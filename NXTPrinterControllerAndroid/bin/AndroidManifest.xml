@@ -18,7 +18,8 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name=".FunctionActivity"
-            android:label="@string/title_activity_function" >
+            android:label="@string/title_activity_function"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,16 +29,19 @@
         <activity
             android:name=".BluetoothControlActivity"
             android:label="@string/title_activity_bluetooth_control"
-            android:theme="@android:style/Theme.DeviceDefault.Dialog" >
+            android:theme="@android:style/Theme.DeviceDefault.Dialog"
+            android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name=".ChooseDeviceActivity"
             android:label="@string/title_activity_choose_device"
-            android:theme="@android:style/Theme.DeviceDefault.Dialog" >
+            android:theme="@android:style/Theme.DeviceDefault.Dialog"
+            android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name=".ImageManagerActivity"
-            android:label="@string/title_activity_image_manager" >
+            android:label="@string/title_activity_image_manager"
+            android:screenOrientation="portrait" >
         </activity>
     </application>
 

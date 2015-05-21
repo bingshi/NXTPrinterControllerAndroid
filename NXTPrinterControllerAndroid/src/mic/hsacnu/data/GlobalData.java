@@ -14,5 +14,6 @@ public class GlobalData {
 	public static BluetoothDevice current_printer=null;
 	public static int bluetooth_port=1;
 	public static ArrayList<Byte> another_messages=new ArrayList<Byte>();
-	public static SharedPreferences sp;
+	public static Set<String> image_file_set;
+	public static ArrayList<ImageFileModel> images=new ArrayList<ImageFileModel>();
 }
